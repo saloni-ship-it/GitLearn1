@@ -15,6 +15,9 @@ public class heelTest {
 	public void slip()
 	{
 		System.out.println("shoebefore");
+		System.out.println("shoebefore");
+		System.out.println("shoebefore");
+		System.out.println("shoebefore");
 	}
 
 }
