@@ -14,11 +14,7 @@ public class mangoTest {
 	public void banana()
 	{
 		
-		System.out.println("banana");
-		System.out.println("banana2");
-		System.out.println("banana3");
-		System.out.println("banana");
-		System.out.println("banana2");
+		
 		System.out.println("banana3");
 		
 		

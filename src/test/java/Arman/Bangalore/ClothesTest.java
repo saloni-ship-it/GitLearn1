@@ -7,10 +7,7 @@ public class ClothesTest {
 	@Test
 	public void shirt()
 	{
-		System.out.println("shirt");
-		System.out.println("shirt");
-		System.out.println("shirt");
-		System.out.println("shirt");
+		System.out.println("shirt develop");
 	}
 
 }
