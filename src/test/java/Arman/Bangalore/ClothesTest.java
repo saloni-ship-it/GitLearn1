@@ -9,6 +9,8 @@ public class ClothesTest {
 	{
 		System.out.println("shirt");
 		System.out.println("shirt");
+		System.out.println("shirt");
+		System.out.println("shirt");
 	}
 
 }
